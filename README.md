@@ -1,6 +1,6 @@
 # MULTIPLE-PDF-CHAT
 ## Demo
-[Include a demo link or image of the interface here if available.]
+https://github.com/user-attachments/assets/297c292f-6c6a-4fdc-9203-32f0912fdcdc
 ## Overview
 The **MULTIPLE-PDF-CHAT** project is a chatbot application that leverages LangChain, Streamlit, and the ChatGPT API to provide an engaging and efficient experience for users interacting with uploaded PDFs. This solution allows users to upload multiple PDFs containing company-related documents, such as employee guidelines or company overviews, and receive instant answers to their queries based on the content of the PDFs. The chatbot uses AI models integrated via Huggingface for enhanced functionality and accuracy.
 
